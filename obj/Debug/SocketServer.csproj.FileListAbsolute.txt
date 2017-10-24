@@ -1,0 +1,6 @@
+E:\work\myproject\dotnet\SocketServer\bin\Debug\SocketServer.exe.config
+E:\work\myproject\dotnet\SocketServer\bin\Debug\SocketServer.exe
+E:\work\myproject\dotnet\SocketServer\bin\Debug\SocketServer.pdb
+E:\work\myproject\dotnet\SocketServer\obj\Debug\SocketServer.exe
+E:\work\myproject\dotnet\SocketServer\obj\Debug\SocketServer.pdb
+E:\work\myproject\dotnet\SocketServer\obj\Debug\SocketServer.csprojResolveAssemblyReference.cache
